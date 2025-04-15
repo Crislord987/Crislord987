@@ -3,7 +3,6 @@
 <table>
   <tr>
     <td align="left" valign="top">
-
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=30&duration=4000&pause=5000&color=F78602&width=400&lines=Mi+magia+es+no+rendirme" alt="Typing SVG" />
       </a><br>
@@ -16,7 +15,6 @@
       <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=30&duration=4000&pause=5000&color=F78602&width=400&lines=experticia" alt="Typing SVG" />
       </a>
-
     </td>
     <td align="right" valign="top">
       <img src="./image.png" width="300" alt="Asta Black Clover" />
