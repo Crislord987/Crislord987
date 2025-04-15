@@ -17,10 +17,14 @@
       </a>
     </td>
     <td align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Crislord987/astagif/main/astagif.gif" width="420" alt="Asta Black Clover" />
+      <!-- Contenedor con borde GIF estilo RGB -->
+      <img src="https://raw.githubusercontent.com/Crislord987/astagif/main/astagif.gif" width="420" alt="Asta Black Clover"
+        style="border: 8px solid transparent; border-image: url('https://i.gifer.com/YOUR-RGB-BORDER.gif') 30 round;" />
+
     </td>
   </tr>
 </table>
+
 
 ### 🧠 Sobre mí
 
