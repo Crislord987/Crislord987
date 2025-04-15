@@ -67,7 +67,7 @@
 <hr>
 <p align="center">
   <strong>🧙‍♂️ Crislord987</strong><br>
-  <em>"Anti-mago en entrenamiento. Buscando errores para vencerlos."</em><br>
+  <em>"Anti-mago en entrenamiento. Buscando ser el Rey mago."</em><br>
   📬 Contacto por pergamino digital: <a href="mailto:crislord1050@gmail.com">crislord1050@gmail.com</a>
 </p>
 
