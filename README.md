@@ -34,14 +34,9 @@
 ### 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?Crislord987&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Crislord987o&layout=compact&theme=tokyonight" width="48%"/>
 </p>
-
----
-
-### 🌈 Animación RGB
-
 
 <div align="center">
   <p style="font-size:20px;">
