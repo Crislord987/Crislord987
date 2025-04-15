@@ -64,8 +64,13 @@
 ---
 
 ### 🚀 ¡Gracias por visitar mi perfil!
+<hr>
+<p align="center">
+  <strong>🧙‍♂️ Crislord987</strong><br>
+  <em>"Anti-mago en entrenamiento. Buscando errores para vencerlos."</em><br>
+  📬 Contacto por pergamino digital: <a href="mailto:crislord1050@gmail.com">crislord1050@gmail.com</a>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=22&duration=4000&pause=5000&color=F78602&center=true&width=500&lines=📧+crislord1050@gmail.com" alt="Typing SVG" />
   <img src="https://komarev.com/ghpvc/?username=Crislord987&label=Visitas&color=brightgreen" alt="Profile views"/>
 </p>
