@@ -32,8 +32,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Crislord987&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crislord987&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -46,5 +46,5 @@
 ### 🚀 ¡Gracias por visitar mi perfil!
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&label=Visitas&color=brightgreen" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Crislord987&label=Visitas&color=brightgreen" alt="Profile views"/>
 </p>
