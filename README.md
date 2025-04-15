@@ -1,21 +1,29 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hola+%F0%9F%91%8B%2C+soy+Cristian" alt="Typing SVG" /></a></h1>
 
-<div align="center">
+<table>
+  <tr>
+    <td align="left" valign="top">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=30&duration=4000&pause=5000&color=F78602&center=true&width=600&lines=Mi+magia+es+no+rendirme" alt="Typing SVG" />
-  </a>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=30&duration=4000&pause=5000&color=F78602&center=true&width=600&lines=si+tengo+falencias+la" alt="Typing SVG" />
-  </a>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=30&duration=4000&pause=5000&color=F78602&center=true&width=600&lines=practica+me+llevara+a+la" alt="Typing SVG" />
-  </a>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=30&duration=4000&pause=5000&color=F78602&center=true&width=600&lines=experticia" alt="Typing SVG" />
-  </a>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=30&duration=4000&pause=5000&color=F78602&width=400&lines=Mi+magia+es+no+rendirme" alt="Typing SVG" />
+      </a><br>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=30&duration=4000&pause=5000&color=F78602&width=400&lines=si+tengo+falencias+la" alt="Typing SVG" />
+      </a><br>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=30&duration=4000&pause=5000&color=F78602&width=400&lines=practica+me+llevara+a+la" alt="Typing SVG" />
+      </a><br>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=30&duration=4000&pause=5000&color=F78602&width=400&lines=experticia" alt="Typing SVG" />
+      </a>
 
-</div>
+    </td>
+    <td align="right" valign="top">
+      <img src="./image.png" width="300" alt="Asta Black Clover" />
+    </td>
+  </tr>
+</table>
+
  
 ### 🧠 Sobre mí
 
