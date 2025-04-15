@@ -37,9 +37,6 @@
 </p>
 
 ---
-
-### 🐍 Animación de contribuciones
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Snoopy1866/Snoopy1866/main/profile-contrib-snake/github-snake.svg" alt="snake gif" />
 </p>
