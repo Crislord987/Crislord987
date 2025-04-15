@@ -1,8 +1,6 @@
 <h1 align="center">¡Hola! 👋 Soy [Tu Nombre]</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Estudiante+de+Ciencias+de+la+Computaci%C3%B3n;Apasionado+por+la+programaci%C3%B3n+💻;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas+🚀" alt="Typing SVG" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hola+%F0%9F%91%8B%2C+soy+Cristian" alt="Typing SVG" /></a>
 
 ---
 
