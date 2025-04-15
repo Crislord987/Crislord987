@@ -14,7 +14,7 @@
 ### 🧠 Sobre mí
 
 <pre>
-<span style="color: lime;">+ 👋 ¡Hola mundo! Soy Crislord987 (a.k.a. el hechicero del código).</span>
+<span style="color: lime;">+ 👋 ¡Hola mundo! Soy Crislord987.</span>
 <span style="color: lime;">+ 🧠 Estudiante de Ciencias de la Computación que ha hecho pactos con:</span>
 <span style="color: red;">- 🐍 Python</span>
 <span style="color: red;">- ☕ Java</span>
@@ -23,7 +23,7 @@
 <span style="color: red;">- 🎨 HTML & CSS</span>
 <span style="color: red;">- ⚡ JavaScript</span>
 <span style="color: red;">- 🚫 No confío en los bugs, ellos confían en mí.</span>
-<span style="color: lime;">+ 🧪 Mis hechizos favoritos: compilar sin errores, debuggear sin miedo y dormir... cuando se puede.</span>
+<span style="color: lime;">+ 🧪 Mis hechizos favoritos (Nunca salen): compilar sin errores, debuggear sin miedo y dormir... cuando se puede.</span>
 <span style="color: lime;">+ ✨ Mi magia es no rendirme.</span>
 <span style="color: orange;">? ¿Fallé? Practico.</span>
 <span style="color: orange;">! ¿Caí? Me levanto.</span>
@@ -66,5 +66,6 @@
 ### 🚀 ¡Gracias por visitar mi perfil!
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=22&duration=4000&pause=5000&color=F78602&center=true&width=500&lines=📧+crislord1050@gmail.com+%F0%9F%93%A7" alt="Email Typing SVG" />
   <img src="https://komarev.com/ghpvc/?username=Crislord987&label=Visitas&color=brightgreen" alt="Profile views"/>
 </p>
