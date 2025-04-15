@@ -1,5 +1,4 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hola+%F0%9F%91%8B%2C+soy+Cristian" alt="Typing SVG" /></a></h1>
-
 <table>
   <tr>
     <td align="left" valign="top">
@@ -17,10 +16,11 @@
       </a>
     </td>
     <td align="right" valign="top">
-      <img src="https://github.com/Crislord987/astagif/blob/main/astagif.gif" width="300" alt="Asta Black Clover" />
+      <img src="https://raw.githubusercontent.com/Crislord987/astagif/main/astagif.gif" width="300" alt="Asta Black Clover" />
     </td>
   </tr>
 </table>
+
 
 
  
