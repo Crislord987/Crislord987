@@ -11,22 +11,26 @@
   <img src="https://raw.githubusercontent.com/Crislord987/astagif/main/astagif.gif" width="420" alt="Asta Black Clover" />
 </p>
 
-
-
-
-
-
-
-
-
 ### 🧠 Sobre mí
 
-- 🎓 Estudiante de Ciencias de la Computación
-- 💡 Me interesa el desarrollo de software, algoritmos y el diseño web
-- ⚙️ He trabajado con:  
-  `Python` • `C++` • `Ruby` • `C` • `Java` • `JavaScript` • `HTML` • `CSS`
-- 🌱 Siempre aprendiendo y creciendo como desarrollador
-- 🔥Fun fact: No me importa ser explotado por experiencia
+<pre>
+<span style="color: lime;">+ 👋 ¡Hola mundo! Soy Crislord987 (a.k.a. el hechicero del código).</span>
+<span style="color: lime;">+ 🧠 Estudiante de Ciencias de la Computación que ha hecho pactos con:</span>
+<span style="color: red;">- 🐍 Python</span>
+<span style="color: red;">- ☕ Java</span>
+<span style="color: red;">- 💎 Ruby</span>
+<span style="color: red;">- 💻 C y C++</span>
+<span style="color: red;">- 🎨 HTML & CSS</span>
+<span style="color: red;">- ⚡ JavaScript</span>
+<span style="color: red;">- 🚫 No confío en los bugs, ellos confían en mí.</span>
+<span style="color: lime;">+ 🧪 Mis hechizos favoritos: compilar sin errores, debuggear sin miedo y dormir... cuando se puede.</span>
+<span style="color: lime;">+ ✨ Mi magia es no rendirme.</span>
+<span style="color: orange;">? ¿Fallé? Practico.</span>
+<span style="color: orange;">! ¿Caí? Me levanto.</span>
+<span style="color: lime;">++ En proceso de evolución constante como Asta con su anti-magia 😤</span>
+<span style="color: gray;"># 📫 ¿Mencioné que acepto misiones? ¡Sígueme y veamos hasta dónde llega este viaje!</span>
+</pre>
+
 
 ---
 
