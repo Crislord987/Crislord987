@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hola+%F0%9F%91%8B%2C+soy+Cristian" alt="Typing SVG" /></a></h1>
 
-<table>
+<table border="0">
   <tr>
     <td align="center" valign="middle">
       <a href="https://git.io/typing-svg">
@@ -17,12 +17,11 @@
       </a>
     </td>
     <td align="center" valign="middle">
-      <!-- Contenedor con borde GIF estilo RGB -->
-      <img src="https://raw.githubusercontent.com/Crislord987/astagif/main/astagif.gif" width="420" alt="Asta Black Clover"
-        style="border: 8px solid transparent; border-image: url('https://i.gifer.com/YOUR-RGB-BORDER.gif') 30 round;" />
+      <img src="https://raw.githubusercontent.com/Crislord987/astagif/main/astagif.gif" width="420" alt="Asta Black Clover" />
     </td>
   </tr>
 </table>
+
 
 
 ### 🧠 Sobre mí
