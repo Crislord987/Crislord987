@@ -23,6 +23,7 @@
 - ⚙️ He trabajado con:  
   `Python` • `C++` • `Ruby` • `C` • `Java` • `JavaScript` • `HTML` • `CSS`
 - 🌱 Siempre aprendiendo y creciendo como desarrollador
+- 🔥Fun fact: No me importa ser explotado por experiencia
 
 ---
 
