@@ -1,9 +1,5 @@
-<h1 align="center">Hola 👋, soy [Tu Nombre]</h1>
+<h1 align="center">Hola 👋, soy Cristian</h1>
 <h3 align="center">Estudiante de Ciencias de la Computación apasionado por la tecnología y el desarrollo de software</h3>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Apasionado+por+la+programación;Amante+de+los+algoritmos+y+los+retos;Siempre+aprendiendo+cosas+nuevas" alt="Typing SVG" />
-</div>
 
 ---
 
