@@ -1,26 +1,16 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hola+%F0%9F%91%8B%2C+soy+Cristian" alt="Typing SVG" /></a></h1>
 
-<table border="0">
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=30&duration=4000&pause=5000&color=F78602&center=true&width=500&lines=Mi+magia+es+no+rendirme" alt="Typing SVG" />
-      </a><br>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=30&duration=4000&pause=5000&color=F78602&center=true&width=500&lines=si+tengo+falencias+la" alt="Typing SVG" />
-      </a><br>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=30&duration=4000&pause=5000&color=F78602&center=true&width=500&lines=practica+me+llevara+a+la" alt="Typing SVG" />
-      </a><br>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=30&duration=4000&pause=5000&color=F78602&center=true&width=500&lines=experticia" alt="Typing SVG" />
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Crislord987/astagif/main/astagif.gif" width="420" alt="Asta Black Clover" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <span>
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=30&duration=4000&pause=5000&color=F78602&center=true&width=500&lines=Mi+magia+es+no+rendirme" alt="Typing SVG" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=30&duration=4000&pause=5000&color=F78602&center=true&width=500&lines=si+tengo+falencias+la" alt="Typing SVG" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=30&duration=4000&pause=5000&color=F78602&center=true&width=500&lines=practica+me+llevara+a+la" alt="Typing SVG" /><br>
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=30&duration=4000&pause=5000&color=F78602&center=true&width=500&lines=experticia" alt="Typing SVG" />
+  </span>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/Crislord987/astagif/main/astagif.gif" width="420" alt="Asta Black Clover" />
+</p>
+
 
 
 
