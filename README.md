@@ -66,6 +66,6 @@
 ### 🚀 ¡Gracias por visitar mi perfil!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=22&duration=4000&pause=5000&color=F78602&center=true&width=500&lines=📧+crislord1050@gmail.com+%F0%9F%93%A7" alt="Email Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=22&duration=4000&pause=5000&color=F78602&center=true&width=500&lines=📧+crislord1050@gmail.com" alt="Typing SVG" />
   <img src="https://komarev.com/ghpvc/?username=Crislord987&label=Visitas&color=brightgreen" alt="Profile views"/>
 </p>
