@@ -17,7 +17,7 @@
       </a>
     </td>
     <td align="right" valign="top">
-      <img src="[astagif/astagif.gif](https://github.com/Crislord987/astagif/blob/main/astagif.gif)" width="300" alt="Asta Black Clover" />
+      <img src="https://github.com/Crislord987/astagif/blob/main/astagif.gif" width="300" alt="Asta Black Clover" />
     </td>
   </tr>
 </table>
