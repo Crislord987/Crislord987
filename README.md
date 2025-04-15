@@ -17,10 +17,11 @@
       </a>
     </td>
     <td align="right" valign="top">
-      <img src="./image.png" width="300" alt="Asta Black Clover" />
+      <img src="astagif.gif" width="300" alt="Asta Black Clover" />
     </td>
   </tr>
 </table>
+
 
  
 ### 🧠 Sobre mí
