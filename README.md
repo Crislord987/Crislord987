@@ -27,8 +27,6 @@
 <span style="color: lime;">+ ✨ Mi magia es no rendirme.</span>
 <span style="color: orange;">? ¿Fallé? Practico.</span>
 <span style="color: orange;">! ¿Caí? Me levanto.</span>
-<span style="color: lime;">++ En proceso de evolución constante como Asta con su anti-magia 😤</span>
-<span style="color: gray;"># 📫 ¿Mencioné que acepto misiones? ¡Sígueme y veamos hasta dónde llega este viaje!</span>
 </pre>
 
 
@@ -67,7 +65,6 @@
 <hr>
 <p align="center">
   <strong>🧙‍♂️ Crislord987</strong><br>
-  <em>"Anti-mago en entrenamiento. Buscando ser el Rey mago."</em><br>
   📬 Contacto por pergamino digital: <a href="mailto:crislord1050@gmail.com">crislord1050@gmail.com</a>
 </p>
 
