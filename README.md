@@ -21,7 +21,7 @@
 <span style="color: red;">- 💎 Ruby</span>
 <span style="color: red;">- 💻 C y C++</span>
 <span style="color: red;">- 🎨 HTML & CSS</span>
-<span style="color: red;">- ⚡ JavaScript</span>
+<span style="color: red;">- ⚡ JavaScript, node.js, react</span>
 <span style="color: red;">- 🚫 No confío en los bugs, ellos confían en mí.</span>
 <span style="color: lime;">+ 🧪 Mis hechizos favoritos (Nunca salen): compilar sin errores, debuggear sin miedo y dormir... cuando se puede.</span>
 <span style="color: lime;">+ ✨ Mi magia es no rendirme.</span>
