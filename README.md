@@ -14,7 +14,7 @@
 ### 🧠 Sobre mí
 
 <pre>
-<span style="color: lime;">+ 👋 ¡Hola mundo! Soy Crislord987.</span>
+<span style="color: lime;">+ 👋 Soy Crislord987.</span>
 <span style="color: lime;">+ 🧠 Estudiante de Ciencias de la Computación que ha hecho pactos con:</span>
 <span style="color: red;">- 🐍 Python</span>
 <span style="color: red;">- ☕ Java</span>
@@ -22,7 +22,6 @@
 <span style="color: red;">- 💻 C y C++</span>
 <span style="color: red;">- 🎨 HTML & CSS</span>
 <span style="color: red;">- ⚡ JavaScript, node.js, react</span>
-<span style="color: red;">- 🚫 No confío en los bugs, ellos confían en mí.</span>
 <span style="color: lime;">+ 🧪 Mis hechizos favoritos (Nunca salen): compilar sin errores, debuggear sin miedo y dormir... cuando se puede.</span>
 <span style="color: lime;">+ ✨ Mi magia es no rendirme.</span>
 <span style="color: orange;">? ¿Fallé? Practico.</span>
