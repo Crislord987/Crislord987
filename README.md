@@ -9,7 +9,7 @@
   <br><br>
   <img src="https://raw.githubusercontent.com/Crislord987/astagif/main/astagif.gif" width="420" alt="Asta Black Clover" />
 </p>
-### 🧠 Sobre mí
+## 🧠 Sobre mí
 <pre>
 <span style="color: lime;">+ 👋 Soy Crislord987.</span>
 <span style="color: lime;">+ 🧠 Estudiante de Ciencias de la Computación que ha hecho pactos con:</span>
